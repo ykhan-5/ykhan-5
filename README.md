@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my page. 👋
 
 <div style="display: flex; flex-direction: row;">
 <div style="flex: 1;">
