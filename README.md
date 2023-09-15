@@ -21,8 +21,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykhan-5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<!-- 
 <div align="center">
   <a href="https://github.com/ykhan-5">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+>
