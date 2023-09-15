@@ -1,7 +1,7 @@
 ### Hi there, welcome to my page. 👋
 
 
-<div align="center">
+<div align="right">
 <div id="badges">
   <a href="https://www.linkedin.com/in/yusufkh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
