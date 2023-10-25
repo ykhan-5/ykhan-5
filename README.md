@@ -20,6 +20,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykhan-5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/yusufkh0)
 <!-- 
 <div align="center">
   <a href="https://github.com/ykhan-5">
