@@ -13,7 +13,7 @@
 <!--#### Languages and Tools:-->
 
 #### Languages and Tools
- [![My Skills](https://skillicons.dev/icons?i=cpp,py,flask,django,r,git,github,vscode,html,css&perline=5)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cpp,py,flask,django,r,git,github,vscode,react,js,html,css&perline=6)](https://skillicons.dev)
 
 
 #### My stats:
