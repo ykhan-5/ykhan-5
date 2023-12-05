@@ -21,8 +21,8 @@
 </div>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/yusufkh0)
-<!-- 
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/yusufkh0)
+
 <div align="center">
   <a href="https://github.com/ykhan-5">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
