@@ -6,7 +6,7 @@ Hey there! Welcome to my page! I'm Yusuf Khan, a sophomore CS student at the Uni
 
 <!--#### Languages and Tools:-->
 
-#### 🎒 Languages and Tools
+### 🎒 Languages and Tools
  [![My Skills](https://skillicons.dev/icons?i=cpp,py,linux,flask,r,vscode,react,js,html,css,github,git&theme=dark)](https://skillicons.dev)
 
 
