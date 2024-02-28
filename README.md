@@ -1,7 +1,18 @@
 # 🌿 Yusuf Khan
 `SEP Co-Facilitor` `NASA L'SPACE NPWEE Academy Member`  
 
-👋 Hey there! Welcome to my page! I'm Yusuf Khan, a sophomore CS student at the University of Houston. Currently, I'm employed by the University as a student instructor for our Data Structures course, where I get to help over 30 students wrap their heads around C++ and all its intricacies. I love to build fun and challenging projects, and am currently really enjoying my Operating Systems and Database Sytems classes the most!
+Hey there! Welcome to my page! I'm Yusuf Khan, a sophomore CS student at the University of Houston. Currently, I'm employed by the University as a student instructor for our Data Structures course, where I get to help over 30 students wrap their heads around C++ and all its intricacies. I love to build fun and challenging projects, and am currently really enjoying my Operating Systems and Database Sytems classes the most!
+
+
+<!--#### Languages and Tools:-->
+
+#### 🎒 Languages and Tools
+ [![My Skills](https://skillicons.dev/icons?i=cpp,py,linux,flask,r,vscode,react,js,html,css,github,git&theme=dark)](https://skillicons.dev)
+
+
+<!-- #### My stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykhan-5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <div align="justify">
@@ -9,19 +20,7 @@
   <a href="https://www.linkedin.com/in/yusufkh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-
 <br>
-
-<!--#### Languages and Tools:-->
-
-#### Languages and Tools
- [![My Skills](https://skillicons.dev/icons?i=cpp,py,flask,django,r,git,github,vscode,react,js,html,css&perline=6)](https://skillicons.dev)
-
-
-#### My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykhan-5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/yusufkh0)
