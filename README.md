@@ -8,7 +8,7 @@ Add my <a href="https://www.linkedin.com/in/yusufkh/">LinkedIn!</a>
 <!--#### Languages and Tools:-->
 
 ### 🎒 Languages and Tools
- [![My Skills](https://skillicons.dev/icons?i=cpp,py,linux,flask,r,vscode,react,js,html,css,github,git&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cpp,mysql,py,linux,flask,r,vscode,react,js,html,css,github,git&theme=dark)](https://skillicons.dev)
 
 
 <!-- #### My stats:
