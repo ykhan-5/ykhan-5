@@ -1,5 +1,5 @@
 # 🌿 Yusuf Khan
-`SEP Co-Facilitor` `NASA L'SPACE NPWEE Academy Member`  
+`SEP Data Structures Co-Facilitor` `NASA L'SPACE NPWEE Academy Member`  
 
 Hey there! Welcome to my page! I'm Yusuf Khan, a sophomore CS student at the University of Houston. Currently, I'm employed by the University as a student instructor for our Data Structures course, where I get to help over 30 students wrap their heads around C++ and all its intricacies. I love to build fun and challenging projects, and am currently really enjoying my Operating Systems and Database Sytems classes the most!
 
