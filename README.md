@@ -1,5 +1,5 @@
 # 🌿 Yusuf Khan
-`Waste Management Customer Innovation Intern`  `SEP Data Structures Co-Facilitor` 
+<img src="https://github.com/ykhan-5/ykhan-5/assets/131565514/e5bafe1a-d33d-4469-9ce9-8f753077ab4d" width="50"> `Waste Management Customer Innovation Intern`  `SEP Data Structures Co-Facilitator` 
 
 Hey there! Welcome to my page! I'm Yusuf Khan, a sophomore CS student at the University of Houston. Currently, I'm employed by the University as a student instructor for our Data Structures course, where I get to help over 30 students wrap their heads around C++ and all its intricacies. I love to build fun and challenging projects, and am currently really enjoying my Operating Systems and Database Sytems classes the most!
 
